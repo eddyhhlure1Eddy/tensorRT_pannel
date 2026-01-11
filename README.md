@@ -1,0 +1,1 @@
+建议本地编译，mxfp4支持垃圾，可以体验qwen系列和deepseek，目前不支持glmmoe架构
